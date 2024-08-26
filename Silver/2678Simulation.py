@@ -56,4 +56,4 @@ for number in speak:
             break
 
 
-# 시간 복잡도 = O(N)        
+# 시간 복잡도 = O(N제곱)        
