@@ -25,6 +25,7 @@ public class Simulation1138 {
         for (int num : result) {
             System.out.print(num + " ");
         }
+        sc.close();
     }
 
     public static void function1(List<Integer> list, List<Integer> result, int i) {

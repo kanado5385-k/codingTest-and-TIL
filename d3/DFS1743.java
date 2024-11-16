@@ -1,3 +1,4 @@
+package d3;
 import java.util.Scanner;
 
 public class DFS1743 {

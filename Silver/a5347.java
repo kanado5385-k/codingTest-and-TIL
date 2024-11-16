@@ -17,6 +17,7 @@ public class a5347 {
         for(int i = 0; i < Arr.length; i++) {
             System.out.println(Arr[i]);
         }
+        s.close();
        
     }
 
@@ -41,6 +42,7 @@ public class a5347 {
             return small;
         }
         return Gcd(small, big % small);
+
     }
 }
 

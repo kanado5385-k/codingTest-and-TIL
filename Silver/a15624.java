@@ -13,5 +13,6 @@ public class a15624 {
         long sum = DP[n] % 1000000007;
 
         System.out.print(sum);
+        s.close();
     }
 }

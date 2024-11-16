@@ -52,6 +52,7 @@ public class Simulation2941 {
         }
 
         System.out.println(result);
+        sc.close();
     }
 
 }

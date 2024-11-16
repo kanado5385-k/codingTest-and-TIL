@@ -57,5 +57,6 @@ public class Simulation1316{
             }
         }
         System.out.println(result);
+        sc.close();
     }
 }

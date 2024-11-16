@@ -31,6 +31,7 @@ public class Main {
         }
 
         System.out.println(result);  // 결과를 정상 출력
+        sc.close();
     }
 
     public static Result function1(int i, String str){

@@ -26,6 +26,7 @@ public class Simulation2020 {
 
         int result = countOvertakes(carOrder, listOut);
         System.out.println(result);
+        sc.close();
     }
 
     public static int countOvertakes(HashMap<String, Integer> carOrder, List<String> listOut){
