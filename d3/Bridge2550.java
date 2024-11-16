@@ -23,7 +23,6 @@ public class Bridge2550 {
     
         String[] stringKAndM = kAndM.split(" ");
         int K = Integer.parseInt(stringKAndM[0]);
-        int M = Integer.parseInt(stringKAndM[1]);
     
         int countOfSing = 0;
         int currentLocation = 0;
