@@ -21,6 +21,9 @@ public class NQueen2806 {
             diag1 = new boolean[2 * N - 1];
             diag2 = new boolean[2 * N - 1];
 
+            //diag1 = new boolean[N + M - 1];  // row - col의 범위: -(N - 1) ~ (M - 1)
+            //diag2 = new boolean[N + M - 1];  // row + col의 범위: 0 ~ (N + M - 2)
+
             dfs(0);  // 첫 번째 행부터 시작
             System.out.println("#" + test_case + " " + result);
         }
@@ -42,6 +45,10 @@ public class NQueen2806 {
             col[c] = true;
             diag1[row - c + N - 1] = true;
             diag2[row + c] = true;
+
+            //col[c] = true;
+            //diag1[row - c + (N - 1)] = true;  // 음수를 방지하기 위해 (N - 1) 더함
+            //diag2[row + c] = true;
 
             dfs(row + 1);  // 다음 행으로 이동
 

@@ -1,7 +1,7 @@
 package d3;
 import java.util.Scanner;
 
-public class DFS1743 {
+public class DFS1743방향4 {
     static int result = Integer.MIN_VALUE;
     static int sumOfGarb;
     static int h;

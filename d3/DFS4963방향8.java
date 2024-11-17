@@ -1,7 +1,7 @@
 package d3;
 import java.util.Scanner;
 
-public class DFS4963 {
+public class DFS4963방향8 {
     static int w;
     static int h;
     static int result = 0;
