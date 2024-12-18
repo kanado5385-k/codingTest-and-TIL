@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Greedy1931 {
+public class Scheduling1931 {
     public static void main (String[] args) {
         int[][] time;
 
