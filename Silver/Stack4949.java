@@ -5,7 +5,6 @@ public class Stack4949 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         StringBuilder sb = new StringBuilder();
-
         while (true) {
             Stack<Character> stack= new Stack<>();
             String string = sc.nextLine();
@@ -13,8 +12,6 @@ public class Stack4949 {
             if (string.equals(".")){
                 break;
             }
-
-
             for (char word : string.toCharArray()) {
                 if (word == '(' || word == '[') {
                     stack.push(word);
@@ -35,7 +32,6 @@ public class Stack4949 {
                     continue;
                 }
             }
-
             if (!stack.empty()) {
                 isBalanced = false;
             }
