@@ -29,3 +29,7 @@
 02.05(수) 동기와 비동기, 블로킹과 논블로킹의 차이점 및 조합 이해하기 ([상세 내역 링크](https://kanado2000.tistory.com/124))
 
 02.06(목) 동시성과 병렬성(스레드풀, 컨텍스트 스위칭, 스케줄링), 프로세스 스케쥴링과 스레드 스케쥴링의 차이 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-06-191f102f607d80b1918afc7d20dbcec1?pvs=4))
+
+02.07(금) java에서 동시성 문제 발생 원인과 synchronized와 volatile 차이 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-07-193f102f607d805ab085ddb932726252?pvs=4))
+
+
