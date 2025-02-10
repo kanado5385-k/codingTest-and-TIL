@@ -32,4 +32,7 @@
 
 02.07(금) java에서 동시성 문제 발생 원인과 synchronized와 volatile 차이 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-07-193f102f607d805ab085ddb932726252?pvs=4))
 
+---
 
+02.10(월) 동기화 조건 3가지, 다양한 동기화 기법, 웨이트-프리/락-프리 알고리즘 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-10-196f102f607d8072bf4ff51cbe8b1dc5?pvs=4
+))
