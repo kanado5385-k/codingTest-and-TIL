@@ -18,6 +18,8 @@
 
 01.29(수) git Merge 4가지 방법 (3-way, fast-forward, squash, rebase) ([상세 내역 링크](https://kanado2000.tistory.com/122))
 
+### [2025년 2월]
+
 02.02(일) 웹 기초 개념 정리 (HTTP, DOM, Fetch, DB, 인증, REST API 등) ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-02-189f102f607d80e38b4bd706a497fcc1?pvs=4))
 
 ---
@@ -36,3 +38,5 @@
 
 02.10(월) 동기화 조건 3가지, 다양한 동기화 기법, 웨이트-프리/락-프리 알고리즘 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-10-196f102f607d8072bf4ff51cbe8b1dc5?pvs=4
 ))
+
+02.11(화) 동기화 문제 개념 및 락을 통한 해결 방밥 삼화 내용 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-11-197f102f607d80419440e3fecc8e8c36?pvs=4))
