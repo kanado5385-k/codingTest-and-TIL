@@ -40,3 +40,5 @@
 ))
 
 02.11(화) 동기화 문제 개념 및 락을 통한 해결 방밥 삼화 내용 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-11-197f102f607d80419440e3fecc8e8c36?pvs=4))
+
+02.12(수) TCP/UDT, HTTPS, RestAPI 개념 정리 및 심화 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-12-198f102f607d802393effe8ed0fc3086?pvs=4))
