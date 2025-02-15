@@ -47,4 +47,4 @@
 
 02.15(토) 자바스크립트 문법 기초 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-15-19bf102f607d801bb05ac52fc46dc32e?pvs=4))
 
-02.16(수) Stateful 과 Stateless, HTTP(html, css, js, 주요 메소드들의 멱등성), Web Server와 Web Application Server 차이 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-16-19bf102f607d80bb9f92c08c14bc6951?pvs=4))
+02.16(일) Stateful 과 Stateless, HTTP(동작 순서, 주요 메소드들의 멱등성), Web Server와 WAS 차이 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-16-19bf102f607d80bb9f92c08c14bc6951?pvs=4))
