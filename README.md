@@ -44,3 +44,5 @@
 02.12(수) TCP/UDT, HTTPS, RestAPI 개념 정리 및 심화 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-12-198f102f607d802393effe8ed0fc3086?pvs=4))
 
 02.13(목) HTTP자격증명헤더, JWT, OAuth2.0 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-13-199f102f607d8052ba12ee4930007c29?pvs=4))
+
+02.15(토) 자바스크립트 문법 기초 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-15-19bf102f607d801bb05ac52fc46dc32e?pvs=4))
