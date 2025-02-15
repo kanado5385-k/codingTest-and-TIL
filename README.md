@@ -46,3 +46,5 @@
 02.13(목) HTTP자격증명헤더, JWT, OAuth2.0 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-13-199f102f607d8052ba12ee4930007c29?pvs=4))
 
 02.15(토) 자바스크립트 문법 기초 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-15-19bf102f607d801bb05ac52fc46dc32e?pvs=4))
+
+02.16(수) Stateful 과 Stateless, HTTP(html, css, js, 주요 메소드들의 멱등성), Web Server와 Web Application Server 차이 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-16-19bf102f607d80bb9f92c08c14bc6951?pvs=4))
