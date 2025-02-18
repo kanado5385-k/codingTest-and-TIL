@@ -49,4 +49,9 @@
 
 02.16(일) Stateful 과 Stateless, HTTP(동작 순서, 주요 메소드들의 멱등성), Web Server와 WAS 차이 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-16-19bf102f607d80bb9f92c08c14bc6951?pvs=4))
 
+---
+
 02.17(월) Cookie & Storage & Session ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-17-19df102f607d80cda16bcc2ae407992b?pvs=4))
+
+02.18(화) WebSocket ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-18-19ef102f607d801e9525d2619d3e283b?pvs=4))
+
