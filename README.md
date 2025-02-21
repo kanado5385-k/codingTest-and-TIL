@@ -55,6 +55,7 @@
 
 02.18(화) WebSocket ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-18-19ef102f607d801e9525d2619d3e283b?pvs=4))
 
-02.20(수) Promise와 Async/Await, 자바스크립트 엔진 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-20-19ff102f607d80cdbaf8c00652a36f0e?pvs=4
+02.20(목) Promise와 Async/Await, 자바스크립트 엔진 ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-20-19ff102f607d80cdbaf8c00652a36f0e?pvs=4
 ))
 
+02.21(금) V8 엔진, JavaScript의 메모리 공간과 GC ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-21-1a0f102f607d808e8c0afb8475be03f3?pvs=4))
