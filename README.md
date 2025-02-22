@@ -59,3 +59,5 @@
 ))
 
 02.21(금) V8 엔진, JavaScript의 메모리 공간과 GC ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-21-1a0f102f607d808e8c0afb8475be03f3?pvs=4))
+
+02.22(토) JS의 다양한 함수, CJS vs ESM ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-22-1a2f102f607d80bcac61f9c0a0dd7f79?pvs=4))
