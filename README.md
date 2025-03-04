@@ -65,3 +65,7 @@
 ---
 
 02.24(월) JS의 this ([상세 내역 링크](https://creative-asparagus-222.notion.site/02-24-1a4f102f607d805b9b27e4aa8b23a4a8?pvs=4))
+
+---
+### [2025년 3월]
+03.04(화) SQL 기본 개념 ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-04-1acf102f607d80c6bf03e7e70de1a890?pvs=4))
