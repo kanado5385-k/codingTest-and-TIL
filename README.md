@@ -69,3 +69,6 @@
 ---
 ### [2025년 3월]
 03.04(화) SQL 기본 개념 ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-04-1acf102f607d80c6bf03e7e70de1a890?pvs=4))
+
+03.05(수) INDEX, Transaction, NoSQL ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-05-1adf102f607d800b9d1bdd64d7d77962?pvs=4
+))
