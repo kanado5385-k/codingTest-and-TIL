@@ -72,3 +72,6 @@
 
 03.05(수) INDEX, Transaction, NoSQL ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-05-1adf102f607d800b9d1bdd64d7d77962?pvs=4
 ))
+
+03.06(목) SpringBoot, SpringBoot MVC 개념 정리 ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-06-1aef102f607d8072aa86d0fc2991a766?pvs=4
+))
