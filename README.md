@@ -80,3 +80,5 @@
 
 03.10(월) Spring Been, 프록시 패턴, IoC, DI 구현 방식 3가지 ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-10-1aef102f607d8007b2e0d500c03b41fe))
 
+03.11(화) Spring AOP, ORM ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-11-1b3f102f607d80b88692f2b9e6b177d6))
+
