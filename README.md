@@ -82,3 +82,7 @@
 
 03.11(화) Spring AOP, ORM ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-11-1b3f102f607d80b88692f2b9e6b177d6))
 
+---
+
+03.18(화) JPA, ORM 개념 정리 ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-18-1baf102f607d80a9b500eb800f432c71?pvs=4))
+
