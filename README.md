@@ -84,5 +84,7 @@
 
 ---
 
-03.18(화) JPA, ORM 개념 정리 ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-18-1baf102f607d80a9b500eb800f432c71?pvs=4))
+03.18(화) JPA, ORM 개념 정리, JPA 2차 캐시 ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-18-1baf102f607d80a9b500eb800f432c71?pvs=4))
 
+03.19(수) JPA 매핑 전략, Fetch 전략, EntityGraph ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-19-1bcf102f607d80d38cedcbe36a2197a8?pvs=4
+))
