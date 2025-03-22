@@ -88,3 +88,5 @@
 
 03.19(수) JPA 매핑 전략, Fetch 전략, EntityGraph ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-19-1bcf102f607d80d38cedcbe36a2197a8?pvs=4
 ))
+
+03.20(목) JPA EntityManager, 영속성 컨텍스트, 트랜잭션 관리 ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-20-1bef102f607d80d88c4df5b4595b65d7?pvs=4))
