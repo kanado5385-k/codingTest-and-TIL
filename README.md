@@ -90,3 +90,5 @@
 ))
 
 03.20(목) JPA EntityManager, 영속성 컨텍스트, 트랜잭션 관리 ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-20-1bef102f607d80d88c4df5b4595b65d7?pvs=4))
+
+03.23(일) SpringBoot 심화 개념 ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-23-SpringBoot-1bef102f607d800da1cacff2001f4f63?pvs=4))
