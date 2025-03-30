@@ -97,3 +97,8 @@
 
 03.24(월) SpringBoot JUnit 테스트 코드 개념 ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-24-1bef102f607d80fb8217daf075f2f24a
 ))
+
+03.25(화) CI/CD 기본 개념 ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-25-CI-CD-1-1c0f102f607d8025afc9e8b037a8d154
+))
+
+03.28(금) CD 도구, DevSecOps, GitOps, Docker ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-28-CI-CD-2-1c6f102f607d80a0a040e9b648335e83))
