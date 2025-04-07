@@ -102,3 +102,7 @@
 ))
 
 03.28(금) CD 도구, DevSecOps, GitOps, Docker ([상세 내역 링크](https://creative-asparagus-222.notion.site/03-28-CI-CD-2-1c6f102f607d80a0a040e9b648335e83))
+
+---
+### [2025년 4월]
+04.06(일) 애자일 방법론 ([상세 내역 링크](https://creative-asparagus-222.notion.site/04-06-1cdf102f607d805399c4ca9edd663888?pvs=73))
