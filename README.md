@@ -106,3 +106,7 @@
 ---
 ### [2025년 4월]
 04.06(일) 애자일 방법론 ([상세 내역 링크](https://creative-asparagus-222.notion.site/04-06-1cdf102f607d805399c4ca9edd663888?pvs=73))
+
+---
+
+04.07(월) 네트원크 #1 (프록시 서버, HTTP, URL, REST API, TCP/UDP) ([상세 내역 링크](https://creative-asparagus-222.notion.site/1-1cef102f607d80428b73e4a30b4bdafe))
