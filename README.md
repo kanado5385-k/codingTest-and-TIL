@@ -110,3 +110,5 @@
 04.07(월) 네트원크 #1 (프록시 서버, HTTP, URL, REST API, TCP/UDP) ([상세 내역 링크](https://creative-asparagus-222.notion.site/1-1cef102f607d80428b73e4a30b4bdafe))
 
 04.12(토) JPA의 Flush ([상세 내역 링크](https://kanado2000.tistory.com/131))
+
+04.23(화) MySQL index 종류와 설정 기준 ([상세 내역 링크](https://creative-asparagus-222.notion.site/index-1dbf102f607d804480a2e0d4cdeb94ac))
