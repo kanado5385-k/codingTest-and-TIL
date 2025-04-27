@@ -114,3 +114,5 @@
 04.23(화) MySQL index 종류와 설정 기준 ([상세 내역 링크](https://creative-asparagus-222.notion.site/index-1dbf102f607d804480a2e0d4cdeb94ac))
 
 04.24(목) 복합키 vs 정수형 단일 기본 키 (with UNIQUE) ([상세 내역 링크](https://creative-asparagus-222.notion.site/vs-with-UNIQUE-1dbf102f607d80d8915ef00b751e5e82))
+
+04.27(일) Redis, Redis Pub/Sub, Redis Stream, Redis Streams VS Kafka ([상세 내역 링크](https://creative-asparagus-222.notion.site/04-27-Redis-1e1f102f607d8015aabae890f36eb770))
