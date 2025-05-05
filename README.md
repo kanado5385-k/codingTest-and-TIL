@@ -116,3 +116,7 @@
 04.24(목) 복합키 vs 정수형 단일 기본 키 (with UNIQUE) ([상세 내역 링크](https://creative-asparagus-222.notion.site/vs-with-UNIQUE-1dbf102f607d80d8915ef00b751e5e82))
 
 04.27(일) Redis, Redis Pub/Sub, Redis Stream, Redis Streams VS Kafka ([상세 내역 링크](https://creative-asparagus-222.notion.site/04-27-Redis-1e1f102f607d8015aabae890f36eb770))
+
+---
+### [2025년 5월]
+05.05(월) Spring MVC와 Spring Security의 예외 처리 차이점 ([상세 내역 링크](https://kanado2000.tistory.com/141))
