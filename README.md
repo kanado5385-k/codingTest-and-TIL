@@ -119,5 +119,5 @@
 
 ---
 ### [2025년 5월]
-05.05(월) Spring MVC와 Spring Security의 예외 처리 차이점 ([상세 내역 링크](https://kanado2000.tistory.com/141))
+05.05(월) Spring MVC와 Spring Security의 예외 처리 차이점 ([상세 내역 링크](https://kanado2000.tistory.com/141))  
 05.17(토) Spring에서 Bean 생명주기 개념 정리 ([상세 내역 링크](https://kanado2000.tistory.com/144))
