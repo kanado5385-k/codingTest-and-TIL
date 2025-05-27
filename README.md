@@ -110,3 +110,16 @@
 04.07(월) 네트원크 #1 (프록시 서버, HTTP, URL, REST API, TCP/UDP) ([상세 내역 링크](https://creative-asparagus-222.notion.site/1-1cef102f607d80428b73e4a30b4bdafe))
 
 04.12(토) JPA의 Flush ([상세 내역 링크](https://kanado2000.tistory.com/131))
+
+04.23(화) MySQL index 종류와 설정 기준 ([상세 내역 링크](https://creative-asparagus-222.notion.site/index-1dbf102f607d804480a2e0d4cdeb94ac))
+
+04.24(목) 복합키 vs 정수형 단일 기본 키 (with UNIQUE) ([상세 내역 링크](https://creative-asparagus-222.notion.site/vs-with-UNIQUE-1dbf102f607d80d8915ef00b751e5e82))
+
+04.27(일) Redis, Redis Pub/Sub, Redis Stream, Redis Streams VS Kafka ([상세 내역 링크](https://creative-asparagus-222.notion.site/04-27-Redis-1e1f102f607d8015aabae890f36eb770))
+
+---
+### [2025년 5월]
+05.05(월) Spring MVC와 Spring Security의 예외 처리 차이점 ([상세 내역 링크](https://kanado2000.tistory.com/141))  
+05.17(토) Spring에서 Bean 생명주기 개념 정리 ([상세 내역 링크](https://kanado2000.tistory.com/144))  
+05.24(토) boolean 필드가 JSON에서 read로 직렬화되는 이유 ([상세 내역 링크](https://kanado2000.tistory.com/145))   
+05.25(일) 마틴 파울러 리팩토링 ([상세 내역 링크](https://creative-asparagus-222.notion.site/05-25-1fdf102f607d80e5beb0e67e207be91d?pvs=74))
