@@ -128,5 +128,5 @@
 ---
 ### [2025년 6월]
 06.01(일) Spring filter 인터페이스 종류, filter과 인터셉터 역할 분담 ([상세 내역 링크](https://creative-asparagus-222.notion.site/06-01-filter-filter-204f102f607d80338f92f0e48658bba3))  
-
 06.03(화) 자바 GC 알고리즘 종류 ([상세 내역 링크](https://creative-asparagus-222.notion.site/06-03-GC-207f102f607d8071b1d9eed618a0c25e?pvs=74))  
+06.24(화) JVM Warm-Up ([상세 내역 링크](https://creative-asparagus-222.notion.site/06-24-JVM-Warm-Up-216f102f607d80868b54c2ac56858706))  
