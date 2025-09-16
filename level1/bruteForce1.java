@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class program1 {
+public class bruteForce1 {
     class Solution {
     public int[] solution(int[] numbers) {
         int[] answer;

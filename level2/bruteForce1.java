@@ -1,6 +1,6 @@
 package level2;
 
-public class program1 {
+public class bruteForce1 {
     class Solution {
     static int maxDungeons = 0;
     
